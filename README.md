@@ -14,3 +14,11 @@ The layout for this module will be similarly laid out like the other EthosProjec
 
 #### Ethos-GroupchatForensics - Adding Channels Into The Database
 This module will have a button that says "Add A Groupchat"
+
+##### Ways To Join A Telegram Groupchat
+- From a generated invite link from the channel.
+  - Channel invite links can be deactivated and changed and big spammer channels will do this often.  These links are usually removed instantly by @missrose_bot and the links can be viewed in a Channel's Recent Actions section.
+  - Channel invite links will be a record in the database for their respective channel
+- From doing a search on Telegram to find the channel if you know the name of it.
+
+
